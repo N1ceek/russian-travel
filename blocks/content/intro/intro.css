@@ -12,7 +12,7 @@ align-self: flex-start;
 }
 @media screen and (min-width:768px) and (max-width:1023px){
     .intro {
-        width: 720x;
+        width: 720px;
         align-self: center;
     }
 }
