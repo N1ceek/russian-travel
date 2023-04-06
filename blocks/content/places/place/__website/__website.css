@@ -1,0 +1,16 @@
+.place__website {
+    grid-column: 2;
+    grid-row:1/2;
+    height: 46px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+    
+    @media screen and (max-width:767px){
+        .place__website {
+            grid-column: 1;
+            grid-row:3;
+            height: 46px;
+            }     
+    }

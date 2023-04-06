@@ -1,0 +1,14 @@
+h1,h2,h3,h4,h5,h6,a,p,li {
+    font-family: inter;
+    color: #fff;
+    margin: 0;
+}
+
+.page {
+background-color: #2A2C2F;
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;
+margin: 0;
+}
