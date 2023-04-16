@@ -1,24 +1,24 @@
 .place__paragraph {
     align-self: start;
-    grid-column: 2;
-    grid-row:2/3;
-    margin: 0;
+    margin: 0 0 35px 0;
     font-weight: normal;
     font-size: 18px;
     line-height: 163%;
 }
-@media screen and (min-width:768px) and (max-width:1023px){
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__paragraph {
-        grid-column: 2;
-        grid-row:2/3;
-        font-size: 16px;
-    } 
+        margin: 0 0 27px 0;
+    }
 }
-@media screen and (max-width:767px){
+@media screen and (min-width: 768px) and (max-width: 1023px) {
     .place__paragraph {
-
-        grid-column: 1;
-        grid-row:4;
+        margin: 0 0 25px 0;
         font-size: 16px;
-    }  
+    }
+}
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        margin: 0 auto 25px 0;
+        font-size: 16px;
+    }
 }

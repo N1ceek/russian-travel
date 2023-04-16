@@ -1,9 +1,9 @@
 .intro {
     margin: 92px 0px 0px 0px;
     width: 690px;
-display: flex;
-flex-direction: column;
-align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
 }
 @media screen and (min-width:1024px) and (max-width:1279px){
     .intro {
