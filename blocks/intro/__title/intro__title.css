@@ -3,6 +3,8 @@
     font-size: 54px;
     line-height: 58px;
     font-weight: 900;
+    font-family: Inter;
+    color: #fff;
 }
 @media screen and (max-width:767px){
     .intro__title {

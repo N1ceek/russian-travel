@@ -4,6 +4,8 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 163%;
+    font-family: Inter;
+    color: #fff;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__paragraph {

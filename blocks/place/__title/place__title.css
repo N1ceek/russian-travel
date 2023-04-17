@@ -6,6 +6,8 @@
     font-size: 72px;
     line-height: 76px;
     margin: 0;
+    font-family: Inter;
+    color: #fff;
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place__title {

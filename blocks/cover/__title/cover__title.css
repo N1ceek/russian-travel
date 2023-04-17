@@ -6,6 +6,8 @@
     line-height: 76px;
     text-align: center;
     margin:0 0 32px 0;
+    font-family: Inter;
+    color: #fff;
 }
 @media screen and (min-width:768px) and (max-width:1023px){
     .cover__title {

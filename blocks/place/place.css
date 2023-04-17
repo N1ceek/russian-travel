@@ -27,7 +27,7 @@
     .place {
         display: grid;
         grid-template-columns: 320px 1fr;
-        row-gap: 45px;
+        row-gap: 32px;
         align-items: end;
     }
 }
