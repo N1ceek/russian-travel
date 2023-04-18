@@ -4,15 +4,23 @@
     font-size: 12px;
     line-height: 170%;
     letter-spacing: 2px;
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
+    margin: 106px 457px 10px 0;
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .place__heading {
+        margin: 106px 429px 10px 0;
+    }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place__heading {
+        margin: 0 325px 12px 0;
         line-height: 12px;
     }
 }
 @media screen and (max-width: 767px) {
     .place__heading {
+        margin: 0 261px 12px 0;
         line-height: 12px;
     }
 }

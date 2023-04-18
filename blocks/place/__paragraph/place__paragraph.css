@@ -4,8 +4,11 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 163%;
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
     color: #fff;
+}
+.place__paragraph:last-of-type {
+    margin:0;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__paragraph {

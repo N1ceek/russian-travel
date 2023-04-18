@@ -4,7 +4,7 @@
     line-height: 100px;
     font-weight: 900;
     margin: 0px 0px 32px 0px;
-    font-family: Inter;
+    font-family: Inter, Arial, sans-serif;
     color: #fff;
 }
 @media screen and (max-width:767px){

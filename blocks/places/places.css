@@ -1,5 +1,4 @@
 .places {
-    width: 100%;
     margin: 92px auto 0;
     gap: 84px;
     display: flex;
@@ -13,7 +12,7 @@
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places {
-        margin: 82px auto 0;
+        margin: 82px 24px 0;
         gap: 73px;
     }
 }
@@ -23,4 +22,3 @@
         margin: 64px 24px 0 24px;
     }
 }
-/* выставил верхний margin у cover по макету, а у places все нулевое с низу, не понимаю где не так что*/
