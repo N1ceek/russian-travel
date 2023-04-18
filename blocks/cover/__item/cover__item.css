@@ -10,5 +10,5 @@
 }
 .cover__item:hover{
     background: rgba(42, 44, 47, 0.8);
-    transition: all 1s ease-in-out;
+    transition: all .6s ease-in-out;
 }

@@ -13,3 +13,7 @@
 
     } 
 }
+.header__lang-link:hover{
+    opacity: .7;
+    transition: all .2s ease-in-out;
+}

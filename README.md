@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-ссылка на проект на GH-pages : https://github.com/N1ceek/russian-travel
+ссылка на проект на GH-pages : https://n1ceek.github.io/russian-travel/
 ### Обзор
 * Интро
 * Figma

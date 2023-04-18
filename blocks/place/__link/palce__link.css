@@ -5,3 +5,7 @@
     font-family: Inter, Arial, sans-serif;
     color: #fff;
 }
+.place__link:hover{
+    opacity: .7;
+    transition: all .2s ease-in-out;
+}

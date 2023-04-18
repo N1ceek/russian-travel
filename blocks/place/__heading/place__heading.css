@@ -5,11 +5,11 @@
     line-height: 170%;
     letter-spacing: 2px;
     font-family: Inter, Arial, sans-serif;
-    margin: 106px 457px 10px 0;
+    margin: auto 457px 10px 0;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .place__heading {
-        margin: 106px 429px 10px 0;
+        margin: auto 429px 10px 0;
     }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
